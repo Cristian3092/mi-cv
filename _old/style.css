@@ -1,0 +1,12 @@
+.izq {
+     width: 20%;
+}
+.dra{
+     width: 80%;
+}
+body{
+     background-image: url("fonde.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+
+}
