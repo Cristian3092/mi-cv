@@ -1,0 +1,173 @@
+.imagen-fondo{
+    background: url(flower.jpg)  ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+
+/*class*/
+.container
+{
+    margin: 0 auto;
+    width: 80vw;
+}
+
+.foto
+{
+    width: 150px;
+}
+
+.cabecera
+{
+    display: flex;
+    align-items: center;
+}
+
+.cabecera-padding
+{
+    padding: 25px 20px;
+}
+.tamanio{
+    width: 20px;
+    height: 20px;
+
+}
+
+.nombre
+{
+    font-size: 30px;
+    font-weight: bold;
+
+
+}
+.datos-generales
+{
+    display: flex;
+    flex-direction: column;
+
+}
+.puesto
+{
+    font-size: 20px;
+}
+.content{
+
+    margin: 10px;
+    display: flex;
+
+}
+aside{
+
+    width: 30%;
+    position: relative;
+}
+
+.estudios{
+    
+    width: 100%; 
+  
+    
+}
+.experiencia-laboral{
+
+    width: 100%; 
+
+    font-style: italic;
+    font-size: 20px;
+
+}
+.cajas1{
+
+    width: 100vh;
+    height: 100vh;
+}
+
+.caja-pricipal
+{
+    border: 0.5px solid;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+.titulo-caja
+{
+    border: 1px solid;
+    padding: 5px 15px;
+    margin-top: -25px;
+    width: fit-content;
+    background-color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+    
+.caja-estudios
+{
+    border: 1px solid;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.cajas 
+{
+    border: 2px solid;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+
+.sobre-mi
+{
+    width: auto;
+    color: rgb(14, 19, 16);
+}
+.descripcion{
+
+    margin-top: 4px;
+    color: rgb(15, 26, 172);
+}
+.idiomas{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.code{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hide{
+    display: none;
+}
+.descargas{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+}
+.tip-letra{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: medium;
+    color: blue;
+    
+}
+.caja-trabajo{
+    border: 1px solid;
+    margin-top: 10px;
+    padding: 15px;
+
+}
+.rrss a{
+    color: transparent;
+}
+
+
+
+/*id*/
