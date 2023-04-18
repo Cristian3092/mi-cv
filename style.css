@@ -2,7 +2,7 @@
     background: url(flower.jpg)  ; 
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 0;
+    margin: none;
     
 }
 img {
@@ -110,7 +110,9 @@ aside{
     border: 1px solid;
     padding: 15px;
     margin-bottom: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 
 .cajas 
 {
@@ -169,5 +171,3 @@ aside{
 }
 
 
-
-/*id*/
